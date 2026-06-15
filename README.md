@@ -1,5 +1,4 @@
 # Airfoil Self Noise Prediction
-# Airfoil Self Noise Prediction
 
 ## Project Overview
 
